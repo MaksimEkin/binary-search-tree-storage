@@ -1,0 +1,1 @@
+This is a templated Linked List Data Structure that holds templated Binary Search Tree, because why not. 
